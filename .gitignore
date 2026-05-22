@@ -1,0 +1,4 @@
+.env
+.hazard_alert_state.json
+.venv/
+__pycache__/
